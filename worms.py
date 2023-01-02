@@ -1,3 +1,4 @@
+// run on kali linux
 from sys import argv
 import subprocess
 
